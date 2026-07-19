@@ -136,8 +136,7 @@ The ratio of correctly predicted positive observations to all actual positives. 
 **What is F1-score?**  
 The harmonic mean of Precision and Recall.It is especially useful for imbalanced datasets where you need a balance between precision and recall.
 
-**What is confusion matrix?**  
-A table used to describe the performance of a classification model, displaying True Positives, True Negatives, False Positives,and False Negatives.
+
 =======
 The harmonic mean of Precision and Recall. It is especially useful for imbalanced datasets where you need a balance between precision and recall.
 
