@@ -2,7 +2,6 @@
 
 This README contains concise answers to fundamental questions across Machine Learning, Algorithms, Deep Learning, and Data Evaluation.
 
-
 ## 1/ Basic
 
 **Types of Machine Learning?**  
@@ -134,13 +133,10 @@ The ratio of correctly predicted positive observations to the total predicted po
 The ratio of correctly predicted positive observations to all actual positives. It answers: "Of all actual positive instances, how many did we correctly identify?"
 
 **What is F1-score?**  
-The harmonic mean of Precision and Recall.It is especially useful for imbalanced datasets where you need a balance between precision and recall.
-
-
-=======
 The harmonic mean of Precision and Recall. It is especially useful for imbalanced datasets where you need a balance between precision and recall.
 
 **What is confusion matrix?**  
 A table used to describe the performance of a classification model, displaying True Positives, True Negatives, False Positives, and False Negatives.
+
 =======
 Note that you need to download the labs files to be manage to access it from the repo.
