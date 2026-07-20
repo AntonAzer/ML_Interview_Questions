@@ -1,3 +1,6 @@
+# Acknowledgement (Source of Labs Material):
+<img width="567" height="335" alt="image" src="https://github.com/user-attachments/assets/ce8cfc50-f48f-4c98-b001-9f7f9dba85e7" />
+
 # Machine Learning & Data Science Concepts
 
 This README contains concise answers to fundamental questions across Machine Learning, Algorithms, Deep Learning, and Data Evaluation.
