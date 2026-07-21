@@ -147,7 +147,7 @@ For each topic in the labs, you can quickly take a look at the backgreound math 
 
 <img width="545" height="802" alt="image" src="https://github.com/user-attachments/assets/a1d9f6b9-e2b1-4abe-b72c-97681f997bf5" />
 
-Note that you need to download the labs files to be manage to access it from the repo.
+Note that you need to download the labs files to be manage to run it (on VS Code as example).
 
 
 
