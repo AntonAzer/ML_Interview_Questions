@@ -3,7 +3,9 @@
 
 # Machine Learning & Data Science Concepts
 
-This README contains concise answers to fundamental questions across Machine Learning, Algorithms, Deep Learning, and Data Evaluation.
+**This README contains concise answers to fundamental questions across Machine Learning, Algorithms, Deep Learning, and Data Evaluation.**
+
+**The files in the repo itself are not directly related to the questions, just practicing most of ML topics in general.**
 
 ## 1/ Basic
 
