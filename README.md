@@ -142,7 +142,7 @@ The harmonic mean of Precision and Recall. It is especially useful for imbalance
 A table used to describe the performance of a classification model, displaying True Positives, True Negatives, False Positives, and False Negatives.
 
 ---------------
-**Personal Recommendation**  
+## Personal Recommendation
 For each topic in the labs, you can quickly take a look at the background math from this book (NOT from a to z):
 
 <img width="545" height="802" alt="image" src="https://github.com/user-attachments/assets/a1d9f6b9-e2b1-4abe-b72c-97681f997bf5" />
