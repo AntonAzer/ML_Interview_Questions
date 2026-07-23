@@ -153,7 +153,7 @@ For each topic in the labs, you can quickly take a look at the background math f
 Note that you need to download the labs files to be manage to run it (on VS Code as example).
 
 
-## My Qualification: 
+## My Qualification From "IBM": 
 
 <img width="1878" height="805" alt="image" src="https://github.com/user-attachments/assets/0db4133f-1845-40a0-8862-1f48b1641f0d" />
 
