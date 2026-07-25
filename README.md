@@ -67,7 +67,7 @@ An algorithm that classifies a new data point based on the majority class among 
 A classification algorithm that finds the optimal hyperplane which maximizes the margin (distance) between different classes.
 
 **What is Naive Bayes?**  
-A probabilistic classifier based on Bayes' Theorem, assuming that all features are independent of each other given the class label.
+A probabilistic classifier based on Bayes' Theorem, assuming that all features are independent of each other given the class label (It is called naive for that).
 
 **What is K-Means clustering?**  
 An unsupervised algorithm that partitions unlabeled data into 'K' distinct clusters based on feature similarity and distance to cluster centroids.
