@@ -157,5 +157,11 @@ Note that you need to download the labs files to be manage to run it (on VS Code
 
 <img width="1878" height="805" alt="image" src="https://github.com/user-attachments/assets/0db4133f-1845-40a0-8862-1f48b1641f0d" />
 
+
+# Labs Overview:
+
+<img width="4699" height="386" alt="CourseOverviewML drawio" src="https://github.com/user-attachments/assets/50d9da40-d242-4cd0-a354-9e5701e6a7a7" />
+
+
 # What is Next?
 Now that you have grasped these concepts, you are ready to apply them to a large-scale project. To see how these principles are integrated into a real-world machine learning application, explore the [Enterprise RAG System](https://github.com/AntonAzer/Enterprise-RAG-System).
