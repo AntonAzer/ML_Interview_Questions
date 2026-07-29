@@ -2,6 +2,12 @@
 **The files in the repo itself are not directly related to the questions, just practicing most of ML topics in general.**
 <img width="567" height="335" alt="image" src="https://github.com/user-attachments/assets/ce8cfc50-f48f-4c98-b001-9f7f9dba85e7" />
 
+-----------------------------------
+# Labs Overview:
+
+<img width="4699" height="386" alt="CourseOverviewML drawio" src="https://github.com/user-attachments/assets/50d9da40-d242-4cd0-a354-9e5701e6a7a7" />
+
+-----------------------------------
 # Machine Learning & Data Science Concepts
 
 **This README contains concise answers to fundamental questions across Machine Learning, Algorithms, Deep Learning, and Data Evaluation.**
@@ -158,9 +164,7 @@ Note that you need to download the labs files to be manage to run it (on VS Code
 <img width="1878" height="805" alt="image" src="https://github.com/user-attachments/assets/0db4133f-1845-40a0-8862-1f48b1641f0d" />
 
 
-# Labs Overview:
 
-<img width="4699" height="386" alt="CourseOverviewML drawio" src="https://github.com/user-attachments/assets/50d9da40-d242-4cd0-a354-9e5701e6a7a7" />
 
 
 # What is Next?
