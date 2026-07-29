@@ -5,7 +5,15 @@
 -----------------------------------
 # Labs Overview:
 
+**This is not from the source it is constructed by me, I also put it in the repo as "CourseOverviewML" files to be clearer than the readme display.**
+
+
 <img width="4699" height="386" alt="CourseOverviewML drawio" src="https://github.com/user-attachments/assets/50d9da40-d242-4cd0-a354-9e5701e6a7a7" />
+
+
+-----------------------------------
+**By the way in first part which is web scrapping I did nice example here [Jumia-Scrapping](https://github.com/AntonAzer/JumiaScrapping-Omega3_Data)
+that I got the data from famous store and organize it to deal with it with SQL Server.**
 
 -----------------------------------
 # Machine Learning & Data Science Concepts
