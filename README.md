@@ -164,6 +164,12 @@ For each topic in the labs, you can quickly take a look at the background math f
 
 <img width="545" height="802" alt="image" src="https://github.com/user-attachments/assets/a1d9f6b9-e2b1-4abe-b72c-97681f997bf5" />
 
+
+For example you need to understand how "fit" function works by Scikit-Learn as soon as you choose the learning algorithm then call model.fit()?
+and how differentiation is actually done by coding? and so on, to sum up that learn how this libraries actually work in the background.
+
+---------------
+
 Note that you need to download the labs files to be manage to run it (on VS Code as example).
 
 
