@@ -171,6 +171,9 @@ and how differentiation is actually done by coding? and so on, to sum up that le
 
 **Also I recommend this [Arabic Playlist](https://www.youtube.com/playlist?list=PLPt2dINI2MIYdFB4H9bTmen9H6sbSzz2_)**
 
+**It almost has same content of "AI in Practice: Machine Learning and Neural Networks"
+ Course from "HP" but in Arabic**
+
 ---------------
 
 Note that you need to download the labs files to be manage to run it (on VS Code as example).
