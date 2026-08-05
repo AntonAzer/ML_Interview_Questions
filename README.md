@@ -166,7 +166,10 @@ For each topic in the labs, you can quickly take a look at the background math f
 
 
 For example you need to understand how "fit" function works by Scikit-Learn as soon as you choose the learning algorithm then call model.fit()?
-and how differentiation is actually done by coding? and so on, to sum up that learn how this libraries actually work in the background.
+and how differentiation is actually done by coding? and so on, to sum up that learn how this libraries actually work in the background and don't treat every function or model as black box.
+
+
+**Also I recommend this [Arabic Playlist](https://www.youtube.com/playlist?list=PLPt2dINI2MIYdFB4H9bTmen9H6sbSzz2_)**
 
 ---------------
 
