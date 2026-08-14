@@ -52,7 +52,7 @@ When a model is too simple to capture the underlying patterns in the data, perfo
 - **Variance:** Error introduced by a model's sensitivity to small fluctuations in the training set (high variance leads to overfitting).
 
 **What is train-test split?**  
-Dividing a dataset into two subsets: one to train the model (training set) and one to evaluate its performance on unseen data (testing set).
+Dividing a dataset into two subsets: one to train the model (training set) and one to evaluate its performance on unseen data (testing set), also there is Validation Set which is part from training set that you as developer use it to adjust hyper parameters choose best model then pass this model to the test set avoiding that the best model is driven from the test set itself.  
 
 ---
 
