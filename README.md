@@ -189,3 +189,5 @@ Note that you need to download the labs files to be manage to run it (on VS Code
 
 # What is Next?
 Now that you have grasped these concepts, you are ready to apply them to a large-scale project. To see how these principles are integrated into a real-world machine learning application, explore the [Enterprise RAG System](https://github.com/AntonAzer/Enterprise-RAG-System).
+
+if you interested in Computer Vision I think this project must be your first step [Handwritten Digit Recognition](https://github.com/AntonAzer/Handwritten-Digit-Recognition).
